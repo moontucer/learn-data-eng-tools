@@ -1,0 +1,11 @@
+# SQL Server with Azure Data Studio - Docker
+https://youtu.be/fFpDf5si_Hw
+
+# ETL Script with PgAdmin and SSMS
+https://youtu.be/dfouoh9QdUw
+
+# PostgreSQL with PgAdmin4 setup - Docker
+https://youtu.be/qECVC6t_2mU
+
+Note:
+Make sure to use volume if you want to have persisent data.
